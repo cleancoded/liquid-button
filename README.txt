@@ -2,6 +2,8 @@ A Babel compiler experiment
 
 Learn more about this at https://github.com/cleancoded/liquid-button
 
+See a live example at https://cleancoded.com/assets/liquid/
+
  New:
 - mobile compatible with touch events
 - Create buttons with markup elements
